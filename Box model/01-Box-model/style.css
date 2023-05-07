@@ -2,4 +2,15 @@
 html { box-sizing: border-box; }
 *, ::after, ::before { box-sizing: inherit; }
 
+img {
+    width: 30%;
+}
 
+p {
+border: 2px solid black;
+    text-align: center;
+    width: 30%;
+    margin: 50px auto;
+}
+    
+}
